@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
 
 I am Nazia Shehnaz Joynab,
 currently studying Computer Science and Engineering at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY
