@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
 
 
--currently studying Computer Science and Engineering at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY
+- :school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
 
 
 - 🌱 I’m currently learning ...
@@ -20,5 +20,5 @@
 email id: dheeranazia@gmail.com
 
 
-![GitHub Logo](./femaledeveloper.jpg)
 
+![GitHub Logo](/femaledeveloper.jpg)
