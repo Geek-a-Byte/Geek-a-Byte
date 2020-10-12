@@ -1,9 +1,9 @@
 
-<h1>Hi there!👋 I am Nazia Shehnaz Joynab.</h1>
-
+<h1>Hi there!👋 I am Nazia Shehnaz Joynab.</h1> 
+                
   
 [![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
-
+<img src="./femaledeveloper.jpg" alt="" width="200" height="200"/>
 
 - :school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
 
@@ -21,4 +21,4 @@ email id: dheeranazia@gmail.com
 
 
 
-![GitHub Logo](/femaledeveloper.jpg)
+
