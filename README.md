@@ -17,3 +17,5 @@ currently studying Computer Science and Engineering at MILITARY INSTITUTE OF SCI
 - 📫 How to reach me:
 email id: dheeranazia@gmail.com
 
+/images/logo.png
+
