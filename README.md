@@ -5,10 +5,10 @@
 [![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
 
 
-- <h5>:school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
+- <h6>:school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
 
 
-- <h5>📫 dheeranazia@gmail.com,
+- <h6>📫 dheeranazia@gmail.com,
           ncoder76@gmail.com
           
 
