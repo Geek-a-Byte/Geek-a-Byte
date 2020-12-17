@@ -1,8 +1,9 @@
 
+[![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
 <h2>Hi there!👋 I am Nazia Shehnaz Joynab 
                 
   
-[![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
+
 
 
 <h6>:school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
