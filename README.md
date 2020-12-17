@@ -19,8 +19,19 @@ email id: dheeranazia@gmail.com,
 <a href="https://www.instagram.com/vibgyor6463/?hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="" width="30" height="30"/></a>
           
 <h3>Languages and Tools</h3>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="" width="30" height="30"/><img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" alt="" width="30" height="30"/><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="" width="30" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="" width="30" height="30"/><img src="https://image.flaticon.com/icons/png/512/23/23763.png" alt="" width="30" height="30"/><img src="https://pbs.twimg.com/profile_images/1272128925230039043/WsHYSbFe_400x400.png" alt="" width="30" height="30"/><img src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" alt="" width="30" height="30"/>
+<h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="" width="30" height="30"/>
+<img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" alt="" width="30" height="30"/>
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="" width="30" height="30"/>
+<img src="https://image.flaticon.com/icons/png/512/23/23763.png" alt="" width="30" height="30"/>
+<img src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" alt="" width="30" height="30"/>
 
 
 
