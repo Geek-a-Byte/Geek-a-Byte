@@ -25,9 +25,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="" width="30" height="30"/>
 <img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" alt="" width="30" height="30"/>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="" width="30" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="" width="30" height="30"/>
-<img src="https://image.flaticon.com/icons/png/512/23/23763.png" alt="" width="30" height="30"/>
-<img src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" alt="" width="30" height="30"/>
+
+
 
 
 
