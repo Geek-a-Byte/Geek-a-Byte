@@ -8,8 +8,7 @@
 - <h5>:school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
 
 
-- <h5>📫 How to reach me:
-- <h5> email : dheeranazia@gmail.com,
+- <h5>📫 dheeranazia@gmail.com,
           ncoder76@gmail.com
           
 
