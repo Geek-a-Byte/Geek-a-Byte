@@ -9,7 +9,7 @@
 
 
 - <h5>📫 How to reach me:
-<h5> email : dheeranazia@gmail.com,
+- <h5> email : dheeranazia@gmail.com,
           ncoder76@gmail.com
           
 
