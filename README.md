@@ -3,7 +3,7 @@
                 
   
 [![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
-<img src="./femaledeveloper.jpg" alt="" width="200" height="200"/>
+
 
 - :school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
 
@@ -12,11 +12,7 @@
 email id: dheeranazia@gmail.com,
           ncoder76@gmail.com
           
-<h3>Connect With me</h3>
-<a href="https://www.facebook.com/profile.php?id=100030019410616"><img src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png" alt="" width="30" height="30"/>   </a>
-    <a href="https://www.linkedin.com/in/naziashehnaz/"><img src="https://www.forumeebe.upc.edu/wp-content/uploads/2019/09/logolinkedin.png" alt="" width="28" height="28"/></a>
-<h3>Give a visit to my insta page of digital art </h3>
-<a href="https://www.instagram.com/vibgyor6463/?hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="" width="30" height="30"/></a>
+
           
 <h3>Languages and Tools</h3>
 <h3>
