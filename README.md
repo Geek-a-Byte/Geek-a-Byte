@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
 <h2>Hi there!👋 I am Nazia Shehnaz Joynab 
                 
-  
+ ![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&theme=radical)
 
 
 
