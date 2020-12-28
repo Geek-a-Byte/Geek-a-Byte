@@ -1,5 +1,5 @@
 
-[![HitCount](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte.svg)](http://hits.dwyl.com/Geek-a-Byte/Geek-a-Byte)
+
 
 <h3>
              
