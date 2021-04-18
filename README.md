@@ -7,16 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
   </span>
 </p>
-            
- 
-
-
-
-<h6>:school: CS undergraduate(2nd year) at MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY,BD
-
-
-<h6>📫 dheeranazia@gmail.com,
-          ncoder76@gmail.com
+     
           
 
           
