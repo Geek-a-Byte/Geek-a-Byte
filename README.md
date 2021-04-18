@@ -2,8 +2,13 @@
 
 
 <h3>
-             
- ![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&theme=dark)
+ <p>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
+  </span>
+</p>
+            
+ 
 
 
 
