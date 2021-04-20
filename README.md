@@ -21,9 +21,12 @@
 
 <h5>
 just a noob coder trying to earn her cs degree :')
-</br>
-</br>
-[My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+
+
+
+
+
+
 <h5>Languages and Tools</h5>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
@@ -33,3 +36,7 @@ just a noob coder trying to earn her cs degree :')
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+</br>
+[My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+
+
