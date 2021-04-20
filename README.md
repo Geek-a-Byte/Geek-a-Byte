@@ -19,10 +19,12 @@
  
  <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
 
-<h6>
+<h5>
 just a noob coder trying to earn her cs degree :')
- 
-<h3>Languages and Tools</h3>
+</br>
+
+[My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+<h5>Languages and Tools</h5>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
@@ -31,8 +33,3 @@ just a noob coder trying to earn her cs degree :')
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-
-
-
-
-
