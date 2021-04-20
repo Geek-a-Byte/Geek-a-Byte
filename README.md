@@ -17,15 +17,14 @@
  <br>
  <hr>
  
- <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
+ <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="300" height="200" />
 
 <h5>
 just a noob coder trying to earn her cs degree :')
-<br>
 
+###
 [My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
-
-
+###
 
 
 
