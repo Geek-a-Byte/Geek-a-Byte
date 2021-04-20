@@ -8,7 +8,7 @@
   </span>
 </p>
      
-          
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">         
 
           
 <h3>Languages and Tools</h3>
