@@ -1,7 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Geek-a-Byte)
 
 Hi, I'm Nazia Shehnaz. 
-<h2>
 <a href="https://www.facebook.com/profile.php?id=100030019410616">
   <img align="left" alt="Nazia | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
 </a>
@@ -15,7 +14,8 @@ Hi, I'm Nazia Shehnaz.
 
  </br>
  <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
-
+<h6>
+just a noob coder :')
 <h3>Languages and Tools</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
