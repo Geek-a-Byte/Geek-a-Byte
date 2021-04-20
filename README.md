@@ -22,10 +22,13 @@
 <h5>
 just a noob coder trying to earn her cs degree :')
 
-###
-[My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
-###
+####
+- [certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+####
 
+####
+- [portfolio](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+####
 
 
 <h5>Languages and Tools</h5>
