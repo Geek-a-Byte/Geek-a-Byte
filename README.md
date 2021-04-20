@@ -13,18 +13,9 @@ Hi, I'm Nazia Shehnaz.
   <img align="left" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br>
-
-
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff"  width="800" height="150">
- <br>
+ </br>
  <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
- </span>
 
-
- 
-<br>
-<h3>
 <h3>Languages and Tools</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
