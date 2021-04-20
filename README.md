@@ -22,6 +22,7 @@
 <h5>
 just a noob coder trying to earn her cs degree :')
  
+</br>
 [My certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
 
 
