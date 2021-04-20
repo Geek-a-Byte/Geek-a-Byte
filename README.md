@@ -1,27 +1,39 @@
+![](https://visitor-badge.glitch.me/badge?page_id=Geek-a-Byte)
+
+Hi, I'm Nazia Shehnaz.
+<h2>
+<a href="https://www.facebook.com/profile.php?id=100030019410616">
+  <img align="left" alt="Nazia | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
+</a>
+<a href="https://www.instagram.com/vibgyor6463/">
+  <img align="left" alt="Nazia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/naziashehnaz/">
+  <img align="left" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br>
 
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff"  width="800" height="150">
+ <br>
+ <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
+ </span>
 
+
+ 
+<br>
 <h3>
- <p>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
-  </span>
-</p>
-     
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geek-a-Byte&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">         
-
-          
 <h3>Languages and Tools</h3>
-<h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="" width="30" height="30"/>
-<img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" alt="" width="30" height="30"/>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="" width="30" height="30"/>
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
 
 
