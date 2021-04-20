@@ -12,7 +12,7 @@ Hi, I'm Nazia Shehnaz.
 <a href="https://www.linkedin.com/in/naziashehnaz/">
   <img align="left" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<h2>
+
  </br>
  <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="200" height="150" />
 
