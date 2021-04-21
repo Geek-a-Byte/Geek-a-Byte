@@ -23,7 +23,8 @@
 just a noob coder trying to earn her cs degree :')
 
 ####
-[certifications](https://slides.com/geek-a-byte/deck-3b1a22/fullscreen)
+<h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen">certifications</a></h5>
+
 ####
 
 
