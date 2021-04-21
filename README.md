@@ -5,13 +5,13 @@
 <h3>
   
 <a href="https://www.facebook.com/profile.php?id=100030019410616">
-  <img align="left" alt="Nazia | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
+  <img align="left" target="_blank" alt="Nazia | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
 </a>
 <a href="https://www.instagram.com/vibgyor6463/">
-  <img align="left" alt="Nazia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" target="_blank" alt="Nazia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/naziashehnaz/">
-  <img align="left" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" target="_blank" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   
  <br>
@@ -23,7 +23,7 @@
 just a noob coder trying to earn her cs degree :')
 
 ####
-<h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen">certifications</a></h5>
+<h5> :diamond_shape_with_a_dot_inside: <a target="_blank" href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen">certifications</a></h5>
 
 ####
 
