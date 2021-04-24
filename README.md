@@ -30,10 +30,12 @@
 
 <!-- <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5> -->
 
-<p>
+###
  
 ###
 
+<br>
+<p>
 <h5>Languages and Tools</h5>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
