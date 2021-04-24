@@ -23,7 +23,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  />
 
+
+
+
+###
+
 <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5>
+
+###
 
 <h5>Languages and Tools</h5>
 
