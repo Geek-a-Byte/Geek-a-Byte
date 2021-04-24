@@ -28,7 +28,7 @@
 
 ###
 
-<h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5>
+<!-- <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5> -->
 
 ###
 
