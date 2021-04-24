@@ -26,10 +26,12 @@
 
 
 
-###
+
 
 <!-- <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5> -->
 
+<p>
+ 
 ###
 
 <h5>Languages and Tools</h5>
@@ -42,8 +44,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
-
-  
+###
+</p>  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
