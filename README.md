@@ -20,19 +20,15 @@
  
  <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="300" height="200" />
 
-<h5>
-just a noob coder trying to earn her cs degree :')
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=great-gatsby" width="440"  />
+ 
 
 ####
+
 <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5>
 
 ####
-
-
-####
-
-####
-
 
 <h5>Languages and Tools</h5>
 
@@ -43,6 +39,9 @@ just a noob coder trying to earn her cs degree :')
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<hr>
+
+  
 
 
 
