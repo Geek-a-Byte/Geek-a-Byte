@@ -51,4 +51,6 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
