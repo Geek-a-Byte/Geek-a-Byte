@@ -19,7 +19,7 @@
  <hr>
  
 <!-- <img align="left" alt="GIF" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="300" height="200" />
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  />
 
 
 
@@ -44,6 +44,6 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
