@@ -46,4 +46,5 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="380" alt="geek-a-byte" />
 
