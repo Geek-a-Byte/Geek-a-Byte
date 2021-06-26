@@ -32,11 +32,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-
-###
+<div style="width:150px; height:100px; padding-top:100px;">
+<img alt="GIF" align="left"src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="260" height="180" />
+</div>
 </p>  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<img alt="GIF" align="left" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="260" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="380" alt="geek-a-byte" />
+
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="380" alt="geek-a-byte" />
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=alduin)](https://github.com/geek-a-byte/github-profile-trophy) 
  
