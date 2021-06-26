@@ -36,9 +36,9 @@
 ###
 </p>  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<img alt="GIF" align="left" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="260" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" width="380" alt="geek-a-byte" />
+<img alt="GIF" align="left" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="260" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="380" alt="geek-a-byte" />
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=alduin)](https://github.com/geek-a-byte/github-profile-trophy) 
  
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  />
  
