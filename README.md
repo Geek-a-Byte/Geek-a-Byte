@@ -1,5 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=Geek-a-Byte)
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Geek-a-Byte)
+ -->
 
 <h3>Hi, I'm Nazia Shehnaz.
  
