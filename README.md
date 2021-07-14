@@ -7,6 +7,7 @@ I am currently a 3rd year Undergraduate Student at MIST,CSE. I want to be a pass
 - Algorithms
 - Full Stack Web Development
 - Compilers
+- Machine Learning
 
 ### Tech Stack ###
 
@@ -14,7 +15,7 @@ I am currently a 3rd year Undergraduate Student at MIST,CSE. I want to be a pass
 - <b>Frameworks</b>           : flutter, laravel
 - <b>Databases</b>            : firebase, Oracle, MySQL
 - <b>Frontend</b>             : HTML, CSS, JS, Bootstrap, Vue.js, React.js
-- <b>Tools</b>                : Git, Docker
+- <b>Tools and IDEs</b>       : Git, Docker, VS Code, Sublime Text 3, IntelliJ, Android Studio,Codeblocks, Adobe Illustrator
 - <b>Operating System</b>     : Windows, Linux 
 - <b>CMS</b>                  : Wordpress
 
