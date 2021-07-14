@@ -1,6 +1,6 @@
 ### Hi, I am Nazia Shehnaz. 
 
-I am currently a 3rd year Undergraduate Student at MIST,CSE. My future dream goal is to be a passionate software developer and I love project based learning a lot.
+> *I am currently a 3rd year Undergraduate Student at MIST,CSE. My future dream goal is to be a passionate software developer and I love project based learning a lot*
 
 ### My field of interest includes:
 
