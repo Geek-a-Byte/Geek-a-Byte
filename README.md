@@ -14,10 +14,11 @@ I am currently a 3rd year Undergraduate Student at MIST,CSE. My future dream goa
 - <b>Programming Language</b> : c, c++, java, dart 
 - <b>Frameworks</b>           : flutter, laravel
 - <b>Databases</b>            : firebase, Oracle, MySQL
-- <b>Frontend</b>             : HTML, CSS, JS, Bootstrap, Vue.js, React.js
-- <b>Tools and IDEs</b>       : Git, Docker, VS Code, Sublime Text 3, IntelliJ, Android Studio,Codeblocks, Adobe Illustrator
+- <b>Frontend</b>             : HTML, CSS, JS, Bootstrap
+- <b>Tools and IDEs</b>       : Git, Docker, VS Code, Sublime Text 3, IntelliJ, Android Studio, Codeblocks, Adobe Illustrator
 - <b>Operating System</b>     : Windows, Linux 
 - <b>CMS</b>                  : Wordpress
+- <b>Currently Learning</b>   : Vue.js, React.js
 
 ## Contact ##
 <p align="center">
