@@ -1,50 +1,29 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Geek-a-Byte)
- -->
+### Hi, I am Nazia Shehnaz. 
 
-<h3>Hi, I'm Nazia Shehnaz.
- 
-<h3>
-  
-<a href="https://www.facebook.com/profile.php?id=100030019410616" target="_blank">
-  <img align="left" alt="Nazia | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
-</a>
-<a href="https://www.instagram.com/vibgyor6463/" target="_blank">
-  <img align="left" alt="Nazia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/naziashehnaz/" target="_blank">
-  <img align="left" alt="Nazia | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  
- <br>
- <hr>
- 
+I am currently a 3rd year Undergraduate Student at MIST,CSE. I want to be a passionate software developer in future and I love project based learning a lot.
 
+### My field of interest includes:
 
-<!-- <h5> :diamond_shape_with_a_dot_inside: <a href="https://slides.com/geek-a-byte/deck-3b1a22/fullscreen" target="_blank">certifications</a></h5> -->
+- Algorithms
+- Full Stack Web Development
+- Compilers
 
-<p>
-<h5>Languages and Tools</h5>
+### Tech Stack ###
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<div style="width:150px; height:100px; padding-top:100px;">
-<!-- <img alt="GIF" align="left"src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="260" height="180" /> -->
-</div>
-</p>  
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+- <b>Programming Language</b> : c, c++, java, dart 
+- <b>Frameworks</b>           : flutter, laravel
+- <b>Databases</b>            : firebase, Oracle, MySQL
+- <b>Frontend</b>             : HTML, CSS, JS, Bootstrap, Vue.js, React.js
+- <b>Tools</b>                : Git, Docker
+- <b>Operating System</b>     : Windows, Linux 
+- <b>CMS</b>                  : Wordpress
 
-<!-- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="380" alt="geek-a-byte" /> -->
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=alduin)](https://github.com/geek-a-byte/github-profile-trophy) 
- 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  />
- 
+## Contact ##
+<p align="center">
+<a href="mailto:dheeranazia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dheeranazia@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://twitter.com/NJoynab"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NJoynab-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/naziashehnaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nazia Shehnaz-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.facebook.com/profile.php?id=100030019410616"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nazia Shehnaz-blue?style=flat&logo=facebook"></a>
 
 
 
