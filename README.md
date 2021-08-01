@@ -1,6 +1,6 @@
-### Hi, I am Nazia Shehnaz. 
+### Hi, I am Nazia Shehnaz. Currently a 3rd year UG at MIST,CSE.
 
-> *I am currently a 3rd year Undergraduate Student at MIST,CSE. My future dream goal is to be a passionate software developer and I love project based learning a lot*
+> _"Being yourself, Believing in yourself, Being ambitious" - these all are "choices" you need to remember and cherish the rest of your life. You will meet various people in your day to day life, their personality/story may/mayn't reshape yours, but definitely will motivate/demotivate you to change, but only you decide whom to follow. Just never ever let the "human" die in yourself, be humble, be strong, be courageous, and do not change your whole self for anybody. Fear/shyness wouldn't do any good to you. SO LIVE EVERY DAY WITH A SMILE OF CONFIDENCE :D._       
 
 ### My field of interest includes:
 
