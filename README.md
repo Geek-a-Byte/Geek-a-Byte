@@ -15,3 +15,5 @@ I will be the most serious and hard working this time, I will be master in codef
 - will try to be in top 50 in the next ICPC (only one chance I have got this time, I won't lose this chance 🙂 no NOT THIS TIME,)
 I CAN DO IT AND I WILL DO IT 🙂
 Just remember you have to regain the trust of your mother. You were her pride but now you are a disgrace, It's a chance, take it, you have to make her proud this time!
+
+- 20 august MIDNIGHT 1.13 am,2021
