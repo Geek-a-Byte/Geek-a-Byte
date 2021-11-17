@@ -24,7 +24,7 @@
 
 </p>  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<img alt="GIF" align="left" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="300" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10" width="380" alt="geek-a-byte" />
+<img alt="GIF" align="left" src="https://github.com/Geek-a-Byte/Geek-a-Byte/blob/master/github.gif" width="320" height="230" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-a-byte&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10" width="380" alt="geek-a-byte" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Geek-a-Byte&show_icons=true&count_private=true&theme=dracula" width="440"  /> -->
 
 <br>
