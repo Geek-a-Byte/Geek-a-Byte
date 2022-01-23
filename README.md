@@ -5,7 +5,7 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/Geek-a-Byte?template=terminal&base.metadata=0&config.timezone=Asia%2FDhaka) -->
 
-<img src="https://github.com/<geek-a-byte>/<geek-a-byte>/blob/<main>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
+<img src="https://github.com/geek-a-byte/geek-a-byte/blob/main/images/stat.svg" alt="Nazia WakaTime Activity"/>
 
 >Know more about me [here](https://geek-a-byte.github.io/)
