@@ -29,13 +29,14 @@
 ![Flutter](https://img.shields.io/static/v1?style=flat&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=flat&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
-#### Tools:
+#### Tools
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=flat&message=Adobe+Illustrator&color=000000&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
 ![Figma](https://img.shields.io/static/v1?style=flat&message=Figma&color=000000&logo=Figma&logoColor=FFFFFF&label=)
 
-### CP profiles
+#### CP profiles
 
 [![StopStalk](https://img.shields.io/static/v1?style=flat&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/dheeranazia)
+[![Linktree](https://img.shields.io/static/v1?style=flat&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)](https://linktr.ee/geek_a_byte32)
