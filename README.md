@@ -6,7 +6,7 @@
 <!-- ![Metrics](https://metrics.lecoq.io/Geek-a-Byte?template=terminal&base.metadata=0&config.timezone=Asia%2FDhaka) -->
 
 ## Languages
-
+![C](https://img.shields.io/static/v1?style=flat&message=C&color=000000&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
