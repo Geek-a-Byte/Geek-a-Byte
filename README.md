@@ -19,12 +19,15 @@
 ## Database
 ![Oracle](https://img.shields.io/static/v1?style=flat&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=flat&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
 
 ## Frameworks
+![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Django](https://img.shields.io/static/v1?style=flat&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=flat&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=flat&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=flat&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
 ## Tools:
 
