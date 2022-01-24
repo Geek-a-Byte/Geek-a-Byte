@@ -13,8 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat)
+![C Sharp](https://img.shields.io/static/v1?style=flat&message=C+Sharp&color=000000&logo=C+Sharp&logoColor=FFFFFF&label=)
+
+## Database
+![Oracle](https://img.shields.io/static/v1?style=flat&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+
 
 ## Frameworks
 ![Django](https://img.shields.io/static/v1?style=flat&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
