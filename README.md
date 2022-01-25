@@ -11,7 +11,7 @@
 
 
 #### Languages
-![Dart](https://img.shields.io/static/v1?style=plastic&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=plastic&message=Dart&color=000000&logo=Dart&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=plastic&message=C&color=000000&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/badge/-C++-000000?style=plastic&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logo=java)
@@ -43,5 +43,5 @@
 
 #### CP profiles
 
-[![StopStalk](https://img.shields.io/static/v1?style=plastic&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/dheeranazia)
+[![StopStalk](https://img.shields.io/static/v1?style=plastic&message=StopStalk&color=F80000&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/dheeranazia)
 [![Linktree](https://img.shields.io/static/v1?style=plastic&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)](https://linktr.ee/geek_a_byte32)
