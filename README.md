@@ -4,6 +4,7 @@
 <!-- <img alt="GIF" src="https://user-images.githubusercontent.com/59027621/147380063-c2299ebf-4051-4634-8f09-d40f3bba1099.gif" width="250" height="170"> -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/Geek-a-Byte?template=terminal&base.metadata=0&config.timezone=Asia%2FDhaka) -->
+[Resume](https://docs.google.com/document/d/e/2PACX-1vTrqqzyORCT3QkF2GofN6WRsTS9tEsVNZtSEp6ZdDWSikW7be7LJHH2Gta6MPOgMFtJsn1BsKtfaio5/pub)
 
 ![Stars](https://img.shields.io/github/stars/geek-a-byte?style=plastic&color=000000)
 ![Followers](https://img.shields.io/github/followers/geek-a-byte?style=plastic&color=000000)<br>
