@@ -8,7 +8,7 @@
 
 ![Stars](https://img.shields.io/github/stars/geek-a-byte?style=plastic&color=000000)
 ![Followers](https://img.shields.io/github/followers/geek-a-byte?style=plastic&color=000000)<br>
-![Dart](https://img.shields.io/static/v1?style=plastic&message=Dart&color=000000&logo=Dart&logoColor=FFFFFF&label=)
+<!-- ![Dart](https://img.shields.io/static/v1?style=plastic&message=Dart&color=000000&logo=Dart&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=plastic&message=C&color=000000&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/badge/-C++-000000?style=plastic&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logo=java)
@@ -31,3 +31,7 @@
 ![Figma](https://img.shields.io/static/v1?style=plastic&message=Figma&color=000000&logo=Figma&logoColor=FFFFFF&label=)<br>
 [![StopStalk](https://img.shields.io/static/v1?style=plastic&message=StopStalk&color=F80000&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/dheeranazia)
 [![Linktree](https://img.shields.io/static/v1?style=plastic&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label=)](https://linktr.ee/geek_a_byte32)
+ -->
+
+
+<img src="https://user-images.githubusercontent.com/59027621/152501838-154fd5d2-c255-4bda-849e-6c32ae7e7184.jpg" width="440"  height="450" >
