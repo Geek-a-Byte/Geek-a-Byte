@@ -6,4 +6,4 @@
 <!-- ![Metrics](https://metrics.lecoq.io/Geek-a-Byte?template=terminal&base.metadata=0&config.timezone=Asia%2FDhaka) -->
 #### Repos of my notes on various CS topics.
 
->[OOP](https://github.com/Geek-a-Byte/OOP) * [Python](https://github.com/Geek-a-Byte/PyHaxx) * [Networking](https://github.com/Geek-a-Byte/Networking) * [DSA](https://github.com/Geek-a-Byte/DSA) * [SQL](https://github.com/Geek-a-Byte/sql-practice) * [Digital System Design](https://github.com/Geek-a-Byte/Digital-System-Design)
+>[OOP](https://github.com/Geek-a-Byte/OOP) * [Python](https://github.com/Geek-a-Byte/PyHaxx) * [Networking](https://github.com/Geek-a-Byte/Networking) * [DSA](https://github.com/Geek-a-Byte/DSA) * [SQL](https://github.com/Geek-a-Byte/sql-practice) * [Digital System Design](https://github.com/Geek-a-Byte/Digital-System-Design) * [OS](https://github.com/Geek-a-Byte/Operating-Systems-Sessionals)
