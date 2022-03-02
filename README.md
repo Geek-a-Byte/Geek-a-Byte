@@ -2,7 +2,7 @@
 
 > [```Portfolio```](https://nazia-shehnaz.netlify.app/)
 > [```Blog```](https://geek-a-byte.github.io/)
-> [```Resume```](https://geek-a-byte.github.io/Resume/)
+> [```Resume```](https://resume-of-nazia-shehnaz.netlify.app/)
 
 ##### Repos of my notes on various CS topics.
 
