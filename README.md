@@ -6,7 +6,7 @@
 
 ##### Repos of my notes on various CS topics.
 
-> private repo links for my own favor
+>##### private repo links for my own favor
 
 >[```OOP```](https://github.com/Geek-a-Byte/OOP) 
 >[```Python```](https://github.com/Geek-a-Byte/PyHaxx)
