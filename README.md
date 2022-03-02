@@ -12,11 +12,8 @@
 >[```Python```](https://github.com/Geek-a-Byte/PyHaxx)
 >[```Networking```](https://github.com/Geek-a-Byte/Networking)
 >[```SQL```](https://github.com/Geek-a-Byte/sql-practice)
->[```Digital System Design```](https://github.com/Geek-a-Byte/Digital-System-Design)
 >[```OS```](https://github.com/Geek-a-Byte/Operating-Systems-Sessionals)
->[```Compiler```](https://github.com/Geek-a-Byte/Compiler-Sessional)
->[```Matlab```](https://github.com/Geek-a-Byte/Matlab)
->[```Assembly```](https://github.com/Geek-a-Byte/Assembly)
+
 
 >[```DSA```](https://github.com/Geek-a-Byte/DSA)
 >[```CSES```](https://github.com/Geek-a-Byte/CSES)
