@@ -1,27 +1,24 @@
 ##### About me
 
-> [```Portfolio```](https://nazia-shehnaz.netlify.app/)
-> [```Blog```](https://geek-a-byte.github.io/)
-> [```Resume```](https://resume-of-nazia-shehnaz.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf)](https://nazia-shehnaz.netlify.app/)
+[![Blog](https://img.shields.io/badge/-Blog-9cf)](https://geek-a-byte.github.io/)
+[![Resume](https://img.shields.io/badge/-Resume-9cf)](https://resume-of-nazia-shehnaz.netlify.app/)
 
 ##### Repos of my notes on various CS topics.
 
->##### private repo links for my own favor
+[![OOP](https://img.shields.io/badge/-Object_Oriented_Programming-9cf)](https://github.com/Geek-a-Byte/OOP)
+[![Python](https://img.shields.io/badge/-PyHaxx-9cf)](https://github.com/Geek-a-Byte/PyHaxx)
+[![Networking](https://img.shields.io/badge/-Networking-9cf)](https://github.com/Geek-a-Byte/Networking)
+[![SQL](https://img.shields.io/badge/-Structured_Query_Language-9cf)](https://github.com/Geek-a-Byte/sql-practice)
+[![OS](https://img.shields.io/badge/-Operating_Systems-9cf)](https://github.com/Geek-a-Byte/Operating-Systems-Sessionals)
 
->[```OOP```](https://github.com/Geek-a-Byte/OOP) 
->[```Python```](https://github.com/Geek-a-Byte/PyHaxx)
->[```Networking```](https://github.com/Geek-a-Byte/Networking)
->[```SQL```](https://github.com/Geek-a-Byte/sql-practice)
->[```OS```](https://github.com/Geek-a-Byte/Operating-Systems-Sessionals)
-
-
->[```DSA```](https://github.com/Geek-a-Byte/DSA)
->[```CSES```](https://github.com/Geek-a-Byte/CSES)
->[```Leetcode```](https://github.com/Geek-a-Byte/Leetcode-Solutions)
->[```Synapse Advanced```](https://github.com/Geek-a-Byte/SynapseTrainingResourses)
->[```CP```](https://github.com/Geek-a-Byte/CP)
->[```Problemset Editorials Link```](https://github.com/Geek-a-Byte/Problemsets-Editorials-of-Bangladesh-OnsiteProgrammingContests)
->[```MCPT```](https://github.com/Geek-a-Byte/MCPT_contests)
+[![DSA](https://img.shields.io/badge/-Data_Structures_and_algorithms-9cf)](https://github.com/Geek-a-Byte/DSA)
+[![CSES](https://img.shields.io/badge/-CSES-9cf)](https://github.com/Geek-a-Byte/CSES)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-9cf)](https://github.com/Geek-a-Byte/Leetcode-Solutions)
+[![Synapse Advanced](https://img.shields.io/badge/-Synapse_Advanced-9cf)](https://github.com/Geek-a-Byte/SynapseTrainingResourses)
+[![CP](https://img.shields.io/badge/-Competitive_programming-9cf)](https://github.com/Geek-a-Byte/CP)
+[![Problemset Editorials Link](https://img.shields.io/badge/-Problemset_Editorials_Link-9cf)](https://github.com/Geek-a-Byte/Problemsets-Editorials-of-Bangladesh-OnsiteProgrammingContests)
+[![MCPT](https://img.shields.io/badge/-MCPT-9cf)](https://github.com/Geek-a-Byte/MCPT_contests)
 
 <p align="center" style="font-weight=500px">
 Github Stats
