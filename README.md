@@ -22,3 +22,5 @@
 >[```CP```](https://github.com/Geek-a-Byte/CP)
 >[```Problemset Editorials Link```](https://github.com/Geek-a-Byte/Problemsets-Editorials-of-Bangladesh-OnsiteProgrammingContests)
 >[```MCPT```](https://github.com/Geek-a-Byte/MCPT_contests)
+
+<a href="https://github.com/geek-a-byte/"><img align="right" alt="geek-a-byte's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-a-byte&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
