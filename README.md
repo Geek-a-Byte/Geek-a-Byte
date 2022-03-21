@@ -15,10 +15,8 @@
 [![DSA](https://img.shields.io/badge/-Data_Structures_and_algorithms-9cf)](https://github.com/Geek-a-Byte/DSA)
 [![CSES](https://img.shields.io/badge/-CSES-9cf)](https://github.com/Geek-a-Byte/CSES)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-9cf)](https://github.com/Geek-a-Byte/Leetcode-Solutions)
-[![Synapse Advanced](https://img.shields.io/badge/-Synapse_Advanced-9cf)](https://github.com/Geek-a-Byte/SynapseTrainingResourses)
 [![CP](https://img.shields.io/badge/-Competitive_programming-9cf)](https://github.com/Geek-a-Byte/CP)
-[![Problemset Editorials Link](https://img.shields.io/badge/-Problemset_Editorials_Link-9cf)](https://github.com/Geek-a-Byte/Problemsets-Editorials-of-Bangladesh-OnsiteProgrammingContests)
-[![MCPT](https://img.shields.io/badge/-MCPT-9cf)](https://github.com/Geek-a-Byte/MCPT_contests)
+
 
 <p align="center" style="font-weight=500px">
 Github Stats
