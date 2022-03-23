@@ -23,11 +23,9 @@
 [![CP](https://img.shields.io/badge/-Competitive_programming-9cf)](https://github.com/Geek-a-Byte/CP)
 
 </h5>
-
 <h5 align="center">
 Github Stats
 </h5>
-
 <p align="center"><a href="https://github.com/geek-a-byte/">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="geek-a-byte's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-a-byte&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
 </a></p>
