@@ -1,11 +1,16 @@
-##### About me
-
+<h5 align="center"> About me
+<br/>
+<br/>
+  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-9cf)](https://nazia-shehnaz.netlify.app/)
 [![Blog](https://img.shields.io/badge/-Blog-9cf)](https://geek-a-byte.github.io/)
 [![Resume](https://img.shields.io/badge/-Resume-9cf)](https://resume-of-nazia-shehnaz.netlify.app/)
 
-##### Repos of my notes on various CS topics.
-
+</h5>
+<h5 align="center"> Repos of my notes on various CS topics.
+<br/>
+<br/>
+  
 [![OOP](https://img.shields.io/badge/-Object_Oriented_Programming-9cf)](https://github.com/Geek-a-Byte/OOP)
 [![Python](https://img.shields.io/badge/-PyHaxx-9cf)](https://github.com/Geek-a-Byte/PyHaxx)
 [![Networking](https://img.shields.io/badge/-Networking-9cf)](https://github.com/Geek-a-Byte/Networking)
@@ -17,10 +22,11 @@
 [![Leetcode](https://img.shields.io/badge/-Leetcode-9cf)](https://github.com/Geek-a-Byte/Leetcode-Solutions)
 [![CP](https://img.shields.io/badge/-Competitive_programming-9cf)](https://github.com/Geek-a-Byte/CP)
 
+</h5>
 
-<p align="center" style="font-weight=500px">
+<h5 align="center">
 Github Stats
-</p>
+</h5>
 
 <p align="center"><a href="https://github.com/geek-a-byte/">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="geek-a-byte's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-a-byte&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
