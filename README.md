@@ -4,8 +4,8 @@
   
 [![Portfolio](https://img.shields.io/badge/-Portfolio-9cf)](https://nazia-shehnaz.netlify.app/)
 [![Blog](https://img.shields.io/badge/-Blog-9cf)](https://geek-a-byte.github.io/)
-[![Resume](https://img.shields.io/badge/-Resume-9cf)](https://resume-of-nazia-shehnaz.netlify.app/)
-
+[![Resume](https://img.shields.io/badge/-Resume-9cf)](https://github.com/Geek-a-Byte/Geek-a-Byte/files/8364038/Resume.of.Nazia.Shehnaz.Joynab.pdf)
+  
 </h5>
 <h5 align="center"> Repos of my notes on various CS topics.
 <br/>
