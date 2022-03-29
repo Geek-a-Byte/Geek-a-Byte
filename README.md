@@ -31,7 +31,7 @@ Github Stats
 </a></p> -->
 
 <p>
-<a align="left" href="https://github.com/geek-a-byte/github-readme-stats"><img alt="geek-a-byte's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=geek-a-byte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/geek-a-byte/"><img align="right" alt="geek-a-byte's Top Languages" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-a-byte&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
+<a align="left" href="https://github.com/geek-a-byte/github-readme-stats"><img alt="geek-a-byte's Github Stats" height="170px" width="40%" src="https://github-readme-stats.vercel.app/api?username=geek-a-byte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/geek-a-byte/"><img align="right" alt="geek-a-byte's Top Languages" height="170px" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-a-byte&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
 
 <a href="https://github.com/geek-a-byte/github-readme-activity-graph"><img alt="geek-a-byte's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geek-a-byte&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
