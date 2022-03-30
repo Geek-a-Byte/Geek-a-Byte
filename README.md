@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/-PyHaxx-9cf)](https://github.com/Geek-a-Byte/PyHaxx)
 [![Networking](https://img.shields.io/badge/-Networking-9cf)](https://github.com/Geek-a-Byte/Networking)
 [![SQL](https://img.shields.io/badge/-Structured_Query_Language-9cf)](https://github.com/Geek-a-Byte/sql-practice)
-[![OS](https://img.shields.io/badge/-Operating_Systems-9cf)](https://github.com/Geek-a-Byte/Operating-Systems-Sessionals)
+[![OS](https://img.shields.io/badge/-Operating_Systems-9cf)](https://docs.google.com/document/d/1E80sN9LdFAOZAzlJTFtA_E9qLYEQXq-aHApknUMNqW0/edit?usp=sharing)
 
 [![DSA](https://img.shields.io/badge/-Data_Structures_and_algorithms-9cf)](https://github.com/Geek-a-Byte/DSA)
 [![CSES](https://img.shields.io/badge/-CSES-9cf)](https://github.com/Geek-a-Byte/CSES)
