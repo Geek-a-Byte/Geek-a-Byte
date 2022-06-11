@@ -35,4 +35,7 @@ Github Stats
 
   
   ![https://github.com/geek-a-byte/](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=algolia)
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
