@@ -37,7 +37,12 @@ Github Stats
   ![https://github.com/geek-a-byte/](https://github-profile-trophy.vercel.app/?username=geek-a-byte&theme=algolia)
   
 <!--START_SECTION:waka-->
+
 ```text
+Dart          10 hrs 14 mins  █████████████████████▓░░░   86.52 %
+Python        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Other         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
+
 <!--END_SECTION:waka-->
 
