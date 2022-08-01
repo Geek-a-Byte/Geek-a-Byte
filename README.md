@@ -36,7 +36,8 @@ Github Stats
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 mins          █████████████████████████   100.00 %
+Python   2 mins          █████████████████░░░░░░░░   67.77 %
+C++      1 min           ████████░░░░░░░░░░░░░░░░░   32.23 %
 ```
 
 <!--END_SECTION:waka-->
