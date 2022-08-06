@@ -36,8 +36,7 @@ Github Stats
 <!--START_SECTION:waka-->
 
 ```text
-C++      1 min           █████████████████████████   100.00 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
