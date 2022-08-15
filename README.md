@@ -36,7 +36,9 @@ Github Stats
 <!--START_SECTION:waka-->
 
 ```text
-Dart   2 hrs 56 mins   █████████████████████████   100.00 %
+Dart    6 hrs 48 mins   ████████████████████████▓   98.10 %
+YAML    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
