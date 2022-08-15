@@ -46,10 +46,11 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 ## Achievements
 
 
-| Type          | Competition Name        | Position     |
-| ------------- | ---------------------   | ------------ |
-| Project Showcasing | Devmania           | 2nd Runners-up  |
-| Idea Contest       | Mujib 100          | top 100         |
-| Programming Contest| Ada Lovelace Preli | [40th](https://toph.co/c/alngpc-2022-preliminary/standings)            |
+| Type               | Competition Name        | Position     | Team Name | Project Name | 
+| -------------      | ---------------------   | ------------ | --------- | ------------ |
+| Project Showcasing | Devmania                |2nd Runners-up| MIST_constants | Shohay  |
+| Idea Contest       | Mujib 100               | top 100      | Team_Shopner_Pathshala | Shopner_Pathshala |
+| Programming Contest| Ada Lovelace Preli | [40th](https://toph.co/c/alngpc-2022-preliminary/standings) | MIST_Braindead | - |
+  
 
 
