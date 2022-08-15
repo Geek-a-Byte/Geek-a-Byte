@@ -43,3 +43,13 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## Achievements
+
+
+| Type          | Competition Name        | Position     |
+| ------------- | ---------------------   | ------------ |
+| Project Showcasing | Devmania           | 2nd Runners-up  |
+| Idea Contest       | Mujib 100          | top 100         |
+| Programming Contest| Ada Lovelace Preli | [40th](https://toph.co/c/alngpc-2022-preliminary/standings)            |
+
+
