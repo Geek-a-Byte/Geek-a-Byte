@@ -46,11 +46,11 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 ## Achievements
 
 
-| Type               | Competition Name        | Position     | Team Name | Project Name | 
-| -------------      | ---------------------   | ------------ | --------- | ------------ |
-| Project Showcasing | Devmania                |2nd Runners-up| MIST_constants | Shohay  |
-| Idea Contest       | Mujib 100               | top 100      | Team_Shopner_Pathshala | Shopner_Pathshala |
-| Programming Contest| Ada Lovelace Preli | [40th](https://toph.co/c/alngpc-2022-preliminary/standings) | MIST_Braindead | - |
-  
-
+| Type               | Competition Name        | Position     | Team Name | Project Name | Prize Money |
+| -------------      | ---------------------   | ------------ | --------- | ------------ |-------------|
+| Project Showcasing | Devmania                |2nd Runners-up| MIST_constants | Shohay  | 8000 tk     |
+| Idea Contest       | Mujib 100               | [top 100](https://drive.google.com/file/d/1R02NZkyqNVq6FlMwd78P_RzYeSog53au/view) | Team_Shopner_Pathshala | Shopner_Pathshala | 20000 tk |
+| Programming Contest| Ada Lovelace Preli 2022 | [40th](https://toph.co/c/alngpc-2022-preliminary/standings) | MIST_Braindead | - | - |
+| Programming Contest| Inter University Girls' Programming Contest Season 2 | [34th](https://toph.co/c/alngpc-2022-preliminary/standings) | Bit champs | - | - |
+| Programming Contest| National Girls' Programming Contest 2021 | [46th](https://toph.co/c/ngpc-2021/standings) | MIST_WrongIn_Jibon | - | - |
 
