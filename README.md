@@ -1,12 +1,20 @@
-### About me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." height="100px" width="100px" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
+## About me
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-9cf)](https://nazia-shehnaz.netlify.app/) [![Blog](https://img.shields.io/badge/-Blog-9cf)](https://geek-a-byte.github.io/) [![Resume](https://img.shields.io/badge/-Resume-9cf)](https://github.com/Geek-a-Byte/Geek-a-Byte/files/8364038/Resume.of.Nazia.Shehnaz.Joynab.pdf)
 
-### Repos of my notes on various CS topics. 
+## Repos of my notes on various CS topics. 
 [![OOP](https://img.shields.io/badge/-Object_Oriented_Programming-9cf)](https://github.com/Geek-a-Byte/OOP) [![Python](https://img.shields.io/badge/-PyHaxx-9cf)](https://github.com/Geek-a-Byte/PyHaxx) [![Networking](https://img.shields.io/badge/-Networking-9cf)](https://github.com/Geek-a-Byte/Networking) [![SQL](https://img.shields.io/badge/-Structured_Query_Language-9cf)](https://github.com/Geek-a-Byte/sql-practice) [![OS](https://img.shields.io/badge/-Operating_Systems-9cf)](https://docs.google.com/document/d/1E80sN9LdFAOZAzlJTFtA_E9qLYEQXq-aHApknUMNqW0/edit?usp=sharing) 
 
 [![DSA](https://img.shields.io/badge/-Data_Structures_and_algorithms-9cf)](https://github.com/Geek-a-Byte/DSA) [![CSES](https://img.shields.io/badge/-CSES-9cf)](https://github.com/Geek-a-Byte/CSES) [![Leetcode](https://img.shields.io/badge/-Leetcode-9cf)](https://github.com/Geek-a-Byte/Leetcode-Solutions) [![CP](https://img.shields.io/badge/-Competitive_programming-9cf)](https://github.com/Geek-a-Byte/CP)
 
-  
+
+
   
 <!--  
 </h5>
