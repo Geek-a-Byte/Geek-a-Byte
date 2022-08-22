@@ -17,13 +17,13 @@ No activity tracked
 ### Achievements
 <h6>
 
-| Type               | Competition Name        | Position     | Team Name | Project Name | Prize Money |
-| -------------      | ---------------------   | ------------ | --------- | ------------ |-------------|
-| Project Showcasing | Devmania 2022           |2nd Runners-up| MIST_constants | Shohay  | 8000 tk     |
-| Idea Contest       | Mujib 100 2021          | [top 100](https://drive.google.com/file/d/1R02NZkyqNVq6FlMwd78P_RzYeSog53au/view) | Team_Shopner_Pathshala | Shopner_Pathshala | 20000 tk |
-| Programming Contest| Ada Lovelace Preli 2022 | [40th](https://toph.co/c/alngpc-2022-preliminary/standings) | MIST_Braindead | - | - |
-| Programming Contest| Inter University Girls' Programming Contest Season 2 2019 | [34th](https://toph.co/c/iugpc-s2/standings) | Bit champs | - | - |
-| Programming Contest| National Girls' Programming Contest 2021 | [46th](https://toph.co/c/ngpc-2021/standings) | MIST_WrongIn_Jibon | - | - |
-| Digital Art Event  | Techwarno 1.0 2020 | [1st Runners-up](https://drive.google.com/file/d/1pquqVb_D0yM5A2O2ZSSvSVKND-xnIm9c/view) | - | - |
+| Type                | Competition Name        | Position                                       | Team Name              | Project Name      | Prize Money |
+| -------------       | ----------------------- | ---------------------------------------------- | ---------------------- | ----------------- |-------------|
+| Project Showcasing  | Devmania 2022           | 2nd Runners-up                                 | MIST_constants         | Shohay            | 8000 tk     |
+| Idea Contest        | Mujib 100 2021          | [top 100](https://tinyurl.com/2hxqerdd)        | Team_Shopner_Pathshala | Shopner_Pathshala | 20000 tk    |
+| Programming Contest | Ada Lovelace Preli 2022 | [40th](https://tinyurl.com/2qxu6jfe)           | MIST_Braindead         | -                 | -           |
+| Programming Contest | IUGPC Season 2 2019     | [34th](https://tinyurl.com/2hseyhcl)           | Bit champs             | -                 | -           |
+| Programming Contest | NGPC 2021               | [46th](https://tinyurl.com/2zpc44fx)           | MIST_WrongIn_Jibon     | -                 | -           |
+| Digital Art Event   | Techwarno 1.0 2020      | [1st Runners-up](https://tinyurl.com/2qfhh9bf) | -                      | -                 | -           |
 
 </h6>
