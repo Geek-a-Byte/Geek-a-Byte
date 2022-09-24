@@ -1,5 +1,8 @@
 ```console
-I hate big readmes
+I don't care if I sing off key
+I find myself in my melodies
+I sing for love, I sing for me
+I shout it out like a bird set free
 ```
 <img src="https://img.shields.io/badge/About Me-8a2be2?style=flat-square&logo=plex&logoColor=FFFFFF">[![badge-shell](https://img.shields.io/badge/Portfolio-211e1b?style=flat-square&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)](https://nazia-shehnaz.netlify.app/)[![badge-shell](https://img.shields.io/badge/Blog-211e1b?style=flat-square&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)](https://geek-a-byte.github.io/)[![badge-shell](https://img.shields.io/badge/Resume-211e1b?style=flat-square&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)](https://github.com/Geek-a-Byte/Geek-a-Byte/files/8364038/Resume.of.Nazia.Shehnaz.Joynab.pdf)
 
