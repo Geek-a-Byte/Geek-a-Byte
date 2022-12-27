@@ -1,4 +1,6 @@
 
+**![image](https://user-images.githubusercontent.com/59027621/209606948-0cb80785-a266-4848-95e5-ab2aca11da2a.png)**
+
 [nazia-shehnaz-joynab-cv.pdf](https://github.com/Geek-a-Byte/Geek-a-Byte/files/10302309/nazia-shehnaz-joynab-cv.pdf)
 
 <!-- <img
