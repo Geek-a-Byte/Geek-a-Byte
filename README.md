@@ -4,6 +4,7 @@
 > [```Blog```](https://geek-a-byte.github.io/)
 > [```Resume```](https://resume-of-nazia-shehnaz.netlify.app/)
 > [```my gists```](https://gist.github.com/Geek-a-Byte)
+> [```coderrank dev profile```](https://profile.codersrank.io/user/geek-a-byte)
 
 ##### Repos of my notes on various CS topics.
 
