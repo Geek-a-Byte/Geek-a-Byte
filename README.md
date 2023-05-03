@@ -6,7 +6,7 @@
 > [```my gists```](https://gist.github.com/Geek-a-Byte)
 > [```coderrank dev profile```](https://profile.codersrank.io/user/geek-a-byte)
 
-##### Repos of my notes on various CS topics.
+<!-- ##### Repos of my notes on various CS topics.
 
 >##### private repo links for my own favor
 
@@ -22,4 +22,4 @@
 >[```Leetcode```](https://github.com/Geek-a-Byte/Leetcode-Solutions)
 >[```CP```](https://github.com/Geek-a-Byte/CP)
 
-
+ -->
