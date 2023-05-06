@@ -1,4 +1,6 @@
-##### About me             
+##### About me 
+
+![GitHub User's stars](https://img.shields.io/github/stars/geek-a-byte?color=lavender&label=stars&logo=github)
 
 > [```Portfolio```](https://nazia-shehnaz.netlify.app/)
 > [```Blog```](https://geek-a-byte.github.io/)
