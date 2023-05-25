@@ -45,7 +45,7 @@
 
 #### ``Data Visualization``
 
-<code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </code>
+<code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></code>
 
 #### ``Backend as a Service(BaaS)``
 
