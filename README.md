@@ -7,4 +7,5 @@
 > [```my gists```](https://gist.github.com/Geek-a-Byte)
 > [```coderrank dev profile```](https://profile.codersrank.io/user/geek-a-byte)
 
-[My Resume.pdf](https://github.com/user-attachments/files/18245112/Nazia_Shehnaz_Joynab_Resume.pdf)
+[My Resume.pdf](https://github.com/user-attachments/files/20892457/Resume_Nazia_Shehnaz_Joynab.pdf)
+
